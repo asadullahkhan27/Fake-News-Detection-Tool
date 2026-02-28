@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python
+Pillow
+tensorflow
+transformers
+torch
+sentencepiece
+huggingface_hub
+pytube
